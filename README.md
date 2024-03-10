@@ -21,11 +21,12 @@ The SQL section includes a collection of Leetcode questions that cover various S
 
 ## Python Interview Preparation
 In the Python section, you will find a range of interview questions covering both basic and advanced Python topics. This section aims to prepare you thoroughly for Python-centric interviews.
-[Python Interview Prep Guide](https://github.com/Praveen76/Python-coding-Interview-preparation)
+- [Python Interview Prep Guide](https://github.com/Praveen76/Python-coding-Interview-preparation)
 
 ## Data Structures and Algorithms in Python
 This part of the guide dives into data structures and algorithms using Python. It covers a broad spectrum of problems to help you refine your problem-solving skills.
- --  TBD
+ - TBD
+
 ## How to Use This Repository
 Feel free to navigate through the different directories for SQL and Python interview questions. Each problem includes a detailed solution in Python, explaining the approach and providing code snippets.
 
